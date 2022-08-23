@@ -1,5 +1,5 @@
 # Listify 
-A chrome extension where you can write your todo's. 
+A chrome extension where you can write your todo's.
 
 # Demo
 
