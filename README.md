@@ -45,3 +45,4 @@ If you would like to download my project, these are the steps:
        </ol>
        
 # What's Next?
+In the future, I plan to upgrade the UI, and include features such as being able to edit the task after being saved into the storage, adding date/time stamps to make tasks more specific, and sharing tasks with others (through Instagram, iMessage, Gmail, etc.). 
